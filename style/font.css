@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Ledger';
+    src: url(../font/Ledger/Ledger-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'fontawesome';
+    src: url(../font/fontawesome5/fa-light-300.ttf);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'fontawesome5';
+    src: url(../font/fontawesome5/fa-duotone-900.ttf);
+    font-weight: 900;
+}
